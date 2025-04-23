@@ -82,3 +82,20 @@ Simple use-case-based management systems.
 1. Clone the repository:
    ```bash
    git clone https://github.com/nstotar/Python_learn.git
+
+🙋‍♂️ What I Learned
+Python syntax and indentation-based structure
+
+Data structures and their methods
+
+OOP fundamentals and advanced topics
+
+Decorators, file and exception handling
+
+Functional programming using map, filter, reduce
+
+Custom generators and iterators
+
+Threading concepts
+
+Writing structured and modular Python code
